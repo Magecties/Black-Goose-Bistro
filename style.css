@@ -1,0 +1,9 @@
+hr{
+    height:2px;
+    background-color: black;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
